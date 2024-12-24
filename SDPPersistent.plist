@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LocalAttributes</key>
+	<dict>
+		<key>Persistent</key>
+		<true/>
+	</dict>
+	<key>0000 - ServiceRecordHandle</key>
+	<integer>65355</integer>
+	<key>0001 - ServiceClassIDList</key>
+	<array>
+		<data>5gMRUqF6T3aapcuhtDIdzw==</data>
+	</array>
+	<key>0004 - ProtocolDescriptorList</key>
+	<array>
+		<array>
+			<data>AQA=</data>
+		</array>
+		<array>
+			<data>AAM=</data>
+			<dict>
+				<key>DataElementSize</key>
+				<integer>1</integer>
+				<key>DataElementType</key>
+				<integer>1</integer>
+				<key>DataElementValue</key>
+				<integer>5</integer>
+			</dict>
+		</array>
+	</array>
+	<key>0005 - BrowseGroupList*</key>
+	<array>
+		<data>EAI=</data>
+	</array>
+</dict>
+</plist>
